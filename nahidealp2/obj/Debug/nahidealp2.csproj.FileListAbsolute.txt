@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\süedayigit\nahidealp2\bin\Debug\nahidealp2.exe.config
+C:\Users\user\source\repos\süedayigit\nahidealp2\bin\Debug\nahidealp2.exe
+C:\Users\user\source\repos\süedayigit\nahidealp2\bin\Debug\nahidealp2.pdb
+C:\Users\user\source\repos\süedayigit\nahidealp2\obj\Debug\nahidealp2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\süedayigit\nahidealp2\obj\Debug\nahidealp2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\süedayigit\nahidealp2\obj\Debug\nahidealp2.exe
+C:\Users\user\source\repos\süedayigit\nahidealp2\obj\Debug\nahidealp2.pdb
+C:\Users\user\source\repos\süedayigit\nahidealp2\obj\Debug\nahidealp2.exe.config
